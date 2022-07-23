@@ -1,6 +1,6 @@
 # aka ms mcdriver error 65542 -Fixed
 
-[![aka ms mcdriver error 65542](get-started.png)](https://computersolve.com/aka-ms-mcdriver-error-65542/)
+[![aka ms mcdriver error 65542](getstarted.png)](https://computersolve.com/aka-ms-mcdriver-error-65542/)
 
 To know how to fix [mcdriver error 65542](https://computersolve.com/aka-ms-mcdriver-error-65542/) check our complete detail and step by step guide.
 
